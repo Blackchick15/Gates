@@ -13,19 +13,19 @@ background: #FFFFFF;
   }
 
 .border{
-    width: 1105px;
-    height: 713px;
+    width: 1200px;
+    height: 733px;
     margin-left: 410px;
-    margin-top: 20px;
-    /* background-color: #00ffbb; */
+    margin-bottom: 20px;
+   background-color:#D3D3D3;
 }
 
 .div-border{
     width: 1105px;
     height: 713px;
   /* margin-left: 500px; */
-    margin-bottom: 20px;
-
+    margin-left: 47px;
+    margin-top: 20px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), radial-gradient(85.29% 204.86% at 4.07% 87.73%, #000000 0%, rgba(202, 202, 202, 0.63) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     background-blend-mode: normal, normal, normal, darken;
     box-shadow: 25px 20px 10px rgba(0, 0, 0, 0.25);
@@ -107,4 +107,37 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     color: #FFFFFF;
     
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.img-ul{
+    display: flex;
+    position: absolute;
+    width: 568px;
+    height: 111px;
+    left: 31px;
+    top: 533px;
+    margin-left: 810px;
+}
+.img-ul>.img:not(:last-child) {
+    margin-right: 11px;
+    }
+    .hero{
+        position: absolute;
+        width: 397px;
+        height: 142px;
+        margin-left:17px ;
+        margin-top: 5px;
+    }
+.hero-title{
+    width: 397px;
+height: 77px;
+
+font-family: 'Martel';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 81px;
+
+color: #FFFFFF;
+
+text-shadow: 7px 10px 4px rgba(0, 0, 0, 0.35);
 }
