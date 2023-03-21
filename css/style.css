@@ -25,7 +25,6 @@ background: #FFFFFF;
     height: 713px;
   /* margin-left: 500px; */
     margin-left: 47px;
-    margin-top: 20px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), radial-gradient(85.29% 204.86% at 4.07% 87.73%, #000000 0%, rgba(202, 202, 202, 0.63) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     background-blend-mode: normal, normal, normal, darken;
     box-shadow: 25px 20px 10px rgba(0, 0, 0, 0.25);
