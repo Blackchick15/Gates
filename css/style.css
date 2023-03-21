@@ -14,9 +14,9 @@ background: #FFFFFF;
 
 .border{
     width: 1200px;
-    height: 733px;
+    height: 857px;
     margin-left: 410px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
    background-color:#D3D3D3;
 }
 
