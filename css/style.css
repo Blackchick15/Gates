@@ -140,3 +140,20 @@ color: #FFFFFF;
 
 text-shadow: 7px 10px 4px rgba(0, 0, 0, 0.35);
 }
+.border-s{
+    width: 1200px;
+    height: 600px;
+    margin-left: 410px;
+    /* margin-bottom: 20px; */
+   background-color:#D3D3D3;
+}
+.video{
+max-width:800px ;
+
+}
+.video-item{
+    width: 800px;
+    height: 502px;
+    margin-top: 91px;
+    margin-left: 200px;
+}
