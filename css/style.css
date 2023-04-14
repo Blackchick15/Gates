@@ -3,7 +3,7 @@ body{
     width: 1200px;
     height: 3320px;
     font-family: 'Martel', sans-serif;
-background: #FFFFFF;
+background: #dbdbdb;
 }
 
 .list {
@@ -17,7 +17,7 @@ background: #FFFFFF;
     height: 857px;
     margin-left: 410px;
     /* margin-bottom: 20px; */
-   background-color:#D3D3D3;
+   background-color:#ffffff;
 }
 
 .div-border{
@@ -145,10 +145,10 @@ text-shadow: 7px 10px 4px rgba(0, 0, 0, 0.35);
     height: 600px;
     margin-left: 410px;
     /* margin-bottom: 20px; */
-   background-color:#D3D3D3;
+   background-color:#ffffff;
 }
 .video{
-max-width:800px ;
+max-width:600px ;
 
 }
 .video-item{
@@ -156,4 +156,14 @@ max-width:800px ;
     height: 502px;
     margin-top: 91px;
     margin-left: 200px;
+}
+
+.border-p{
+    position: absolute;
+    width: 1200px;
+    height: 370px;
+    margin-left: 410px;
+    /* margin-top: 1457px; */
+    
+    background-color:#ffffff
 }
