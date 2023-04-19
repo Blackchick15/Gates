@@ -3,7 +3,7 @@ body{
     width: 1200px;
     height: 3320px;
     font-family: 'Martel', sans-serif;
-background: #dbdbdb;
+background: #ffffff;
 }
 
 .list {
@@ -13,16 +13,16 @@ background: #dbdbdb;
   }
 
 .border{
-    width: 1200px;
-    height: 857px;
-    margin-left: 410px;
+    width: 1500px;
+    height: 1000px;
+    margin-left: 210px;
     /* margin-bottom: 20px; */
    background-color:#ffffff;
 }
 
 .div-border{
-    width: 1105px;
-    height: 713px;
+    width: 1405px;
+    height: 850px;
   /* margin-left: 500px; */
     margin-left: 47px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), radial-gradient(85.29% 204.86% at 4.07% 87.73%, #000000 0%, rgba(202, 202, 202, 0.63) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
@@ -34,9 +34,9 @@ background: #dbdbdb;
 .top-conection{
     display: flex;
     /* position: absolute; */
-    width: 906px;
-    height: 65px;
-   margin-left: 143px;
+    width: 1206px;
+    height: 45px;
+   margin-left: 173px;
     
 }
 .item{
@@ -48,73 +48,74 @@ background: #dbdbdb;
     
 .catalog{
     /* position: absolute; */
-width: 142px;
-height: 36px;
-
-font-family: 'Martel';
-font-style: normal;
-font-weight: 600;
-font-size: 32px;
-line-height: 54px;
-
-color: #FFFFFF;
-
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.Buy{
-    /* position: absolute; */
-width: 122px;
-height: 38px;
-
-font-family: 'Martel';
-font-style: normal;
-font-weight: 600;
-font-size: 32px;
-line-height: 54px;
-
-color: #FFFFFF;
-}
-
-.Delivery-Payment{
-    /* position: absolute; */
-width: 301px;
-height: 39px;
-
-font-family: 'Martel';
-font-style: normal;
-font-weight: 600;
-font-size: 32px;
-line-height: 54px;
-
-color: #FFFFFF;
-
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.Contacts{
-    /* position: absolute; */
-    width: 164px;
-    height: 38px;
+    width: 172px;
+    height: 36px;
     
     font-family: 'Martel';
     font-style: normal;
     font-weight: 600;
-    font-size: 32px;
-    line-height: 54px;
+    font-size: 40px;
+    line-height: 67px;
     
     color: #FFFFFF;
     
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.Buy{
+    /* position: absolute; */
+    width: 152px;
+    height: 38px;
+    
+    font-family: 'Martel';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 67px;
+    
+    color: #FFFFFF;
+}
+
+.Delivery-Payment{
+    /* position: absolute; */
+    width: 375px;
+    height: 39px;
+    
+    font-family: 'Martel';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 67px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Contacts{
+    /* position: absolute; */
+    width: 204px;
+    height: 38px;
+
+font-family: 'Martel';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 67px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 .img-ul{
     display: flex;
     position: absolute;
+    margin-top: 110px;
     width: 568px;
     height: 111px;
     left: 31px;
     top: 533px;
-    margin-left: 850px;
+    margin-left: 780px;
 }
 .img-ul>.img:not(:last-child) {
     margin-right: 11px;
@@ -127,18 +128,18 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
         margin-top: 5px;
     }
 .hero-title{
-    width: 397px;
-height: 77px;
-
-font-family: 'Martel';
-font-style: normal;
-font-weight: 600;
-font-size: 48px;
-line-height: 81px;
-
-color: #FFFFFF;
-
-text-shadow: 7px 10px 4px rgba(0, 0, 0, 0.35);
+    width: 464px;
+    height: 77px;
+    
+    font-family: 'Martel';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 94px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 7px 10px 4px rgba(0, 0, 0, 0.35);
 }
 .border-s{
     width: 1200px;
