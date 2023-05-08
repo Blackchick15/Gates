@@ -13,16 +13,16 @@ background: #ffffff;
   }
 
 .border{
-    width: 1500px;
-    height: 1000px;
-    margin-left: 210px;
+    width: 1200px;
+    height: 800px;
+    margin-left: 410px;
     /* margin-bottom: 20px; */
-   background-color:#ffffff;
+   background-color:#e7e7e7;
 }
 
 .div-border{
-    width: 1405px;
-    height: 850px;
+    width: 1105px;
+    height: 713px;
   /* margin-left: 500px; */
     margin-left: 47px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), radial-gradient(85.29% 204.86% at 4.07% 87.73%, #000000 0%, rgba(202, 202, 202, 0.63) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
@@ -34,7 +34,7 @@ background: #ffffff;
 .top-conection{
     display: flex;
     /* position: absolute; */
-    width: 1206px;
+    width: 905px;
     height: 45px;
    margin-left: 173px;
     
@@ -48,14 +48,14 @@ background: #ffffff;
     
 .catalog{
     /* position: absolute; */
-    width: 172px;
+    width: 136px;
     height: 36px;
     
     font-family: 'Martel';
     font-style: normal;
     font-weight: 600;
-    font-size: 40px;
-    line-height: 67px;
+    font-size: 32px;
+    line-height: 54px;
     
     color: #FFFFFF;
     
@@ -64,58 +64,58 @@ background: #ffffff;
 
 .Buy{
     /* position: absolute; */
-    width: 152px;
-    height: 38px;
+    width: 122px;
+    height: 36px;
     
     font-family: 'Martel';
     font-style: normal;
     font-weight: 600;
-    font-size: 40px;
-    line-height: 67px;
+    font-size: 32px;
+    line-height: 54px;
     
     color: #FFFFFF;
 }
 
 .Delivery-Payment{
     /* position: absolute; */
-    width: 375px;
-    height: 39px;
+    width: 280px;
+    height: 36px;   
     
     font-family: 'Martel';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 40px;
-    line-height: 67px;
-    
-    color: #FFFFFF;
-    
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.Contacts{
-    /* position: absolute; */
-    width: 204px;
-    height: 38px;
-
-font-family: 'Martel';
 font-style: normal;
 font-weight: 600;
-font-size: 40px;
-line-height: 67px;
+font-size: 32px;
+line-height: 54px;
 
 color: #FFFFFF;
 
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.Contacts{
+    /* position: absolute; */
+    width: 166px;
+    height: 36px;
+
+    font-family: 'Martel';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 .img-ul{
     display: flex;
     position: absolute;
-    margin-top: 110px;
+    /* margin-top: 20px; */
     width: 568px;
     height: 111px;
     left: 31px;
-    top: 533px;
-    margin-left: 780px;
+    top: 533px;    
+    margin-left: 900px;
 }
 .img-ul>.img:not(:last-child) {
     margin-right: 11px;
@@ -146,7 +146,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     height: 600px;
     margin-left: 410px;
     /* margin-bottom: 20px; */
-   background-color:#ffffff;
+   background-color:#e7e7e7;
 }
 .video{
 max-width:600px ;
@@ -166,7 +166,7 @@ max-width:600px ;
     margin-left: 410px;
     /* margin-top: 1457px; */
     
-    background-color:#ffffff
+    background-color:#e7e7e7
 }
 .text-ul{
     display: flex;
